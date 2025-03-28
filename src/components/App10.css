@@ -1,0 +1,12 @@
+.App-App10-Container{
+    width: 900px;
+    background-color:aqua;    
+}
+.App-App10-Row{
+    display: flex;
+    justify-content: center;
+}
+.App-App10-Box{
+    width: 400px;
+    text-align: center;
+}
